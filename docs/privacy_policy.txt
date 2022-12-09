@@ -1,3 +1,17 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <title>Privacy Policy</title>
+  <LINK href="styles.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+
+<!-- Feel free to change this text here -->
+<p>
 Zingo! A Zcash Application
 
 Use zero knowledge cryptography to transact, and to manage your transaction history, in a private and mindful way.
@@ -46,3 +60,7 @@ from the Recipient-Client, off-chain.  If the Sending-Client simply recorded the
 case of Re-Sprouting the Client from its SeedPhrase, there'd be no way to recover that relationship data.
 Zingo solves this issue by recording the original recipient provided UA in the memo field of change from the
 transaction.
+</p>
+
+</body>
+</html>
